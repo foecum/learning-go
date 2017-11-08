@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<config>
+    <name>Test Config XML</name>
+    <base_url>http://localhost:8089/base_url_xml</base_url>
+    <driver>testXML</driver>

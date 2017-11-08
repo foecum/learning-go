@@ -1,0 +1,3 @@
+name: Test Config YAML
+base_url: http://localhost:8089/base_url_yaml
+driver: testYAML
